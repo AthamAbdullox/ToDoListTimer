@@ -1,0 +1,11 @@
+2ta qism 
+ 1. asosiy , timerli
+ 2 sozlovchi 
+
+
+ QILINADIGAN ISHLAR
+  settings ni todo list app ustiga qurish 
+  barcha qo'shimcha fayllarni dist ga olish 
+  css va js ga alohida fayl ochish 
+  json fayl yaratib boshqa js fayllarga ulash 
+  
